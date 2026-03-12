@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/fun")
-public class FunRestController {
+public class  FunRestController {
     //expose "/" that return "Hello World"
 
     @GetMapping("/")
