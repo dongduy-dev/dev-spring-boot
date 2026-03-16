@@ -29,3 +29,6 @@ class FunnyRestController {
         return "Stoic";
     }
 }
+
+
+
